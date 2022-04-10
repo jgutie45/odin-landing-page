@@ -1,0 +1,66 @@
+*{
+    border: 1px solid seagreen;
+}
+
+body {
+    background-color: #1f2937;
+}
+
+.header{
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+
+.header-top-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-top-section * {
+    flex: 0 0 auto;
+    margin: 10px 20px;
+    
+}
+
+.hero-color{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-bottom-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.header-bottom-section div{
+    flex: 1 1 auto;
+    
+}
+
+.image-placeholder{
+    text-align: center;
+    background-color: gray;
+}
+
+.image{
+  
+}
+
+.sign-up-button{
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: #F9FAF8;
+    font-size: 15px;
+    text-align: center;
+}
+
+.header-logo{
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.image{
+    font-size: 16px;
+}
