@@ -32,20 +32,22 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    padding: 100px;
 }
 
 .header-bottom-section div{
-    flex: 1 1 auto;
+    flex: 1 1 0%;
     
 }
 
 .image-placeholder{
     text-align: center;
     background-color: gray;
+    
 }
 
 .image{
-  
+  padding: 50px;
 }
 
 .sign-up-button{
