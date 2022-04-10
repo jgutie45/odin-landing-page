@@ -65,6 +65,10 @@ body {
     font-weight: bolder;
 }
 
+.header-website-description-title{
+    font-size: 45px;
+}
+
 .image{
     font-size: 16px;
 }
